@@ -3,14 +3,14 @@
     <channel>
         <title>Amelia Updates</title>
         <item>
-            <title>Version 1.0.0</title>
-            <sparkle:releaseNotesLink>https://github.com/lp460/AudioAmelia/releases/tag/v1.0.0</sparkle:releaseNotesLink>
-            <pubDate>Mon, 06 Apr 2026 15:52:00 +0200</pubDate>
-            <enclosure url="https://github.com/lp460/AudioAmelia/releases/download/v1.0.0/Amelia.dmg"
-                       sparkle:version="1.0"
+            <title>Version 1.0</title>
+            <sparkle:releaseNotesLink>https://github.com/lp460/AudioAmelia/releases/tag/v1.0</sparkle:releaseNotesLink>
+            <pubDate>Mon, 06 Apr 2026 22:18:15 +0200</pubDate>
+            <enclosure url="https://github.com/lp460/AudioAmelia/releases/download/v1.0/Amelia.dmg"
+                       sparkle:version="1"
                        sparkle:shortVersionString="1.0"
-                       sparkle:edSignature="gEnG/VA7tw6mWmWLjbHb37+2/+E0vnEkE2Y3hezyDOc9zB2bYZeAcGy0yohFgb50Htt+GGX/d+DZrrg8Htq2BA=="
-                       length="11483433"
+                       sparkle:edSignature="DG5L3yUbxtf3VYLjWiB4aLsAsu2tDirocgEsLuoUdtlvr/zACgzmooV94njZ8JPRz9yV85syazX1IcMY6bOEAA=="
+                       length="11488058"
                        type="application/octet-stream"/>
         </item>
     </channel>
